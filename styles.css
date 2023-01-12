@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+.logout{
+    color:red;
+}
+
+.dropdown-menu[data-bs-popper]{
+    right:0;
+    left:unset;
+}
+
+img{
+    height: 45vh;
+    object-fit: cover;
+}
